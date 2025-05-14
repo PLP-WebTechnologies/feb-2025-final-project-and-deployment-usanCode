@@ -1,12 +1,3 @@
-# Final Project and Deployment
-
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
-
-
-
 
 ## 🏠 Project Overview
 
@@ -14,13 +5,15 @@ Deploy the project using GitHub Pages, Netlify, or Vercel.
 
 The purpose of this website is to make known to the public, the audience and anyone who will have access to it, the various real estate properties, vehicles, etc. that can be acquired for sale or rental.
 
-**AdZone** is a responsive advertising website built using only HTML and CSS, showcasing listings for:
+**Amamazahano** is a responsive advertising website built using only HTML and CSS, showcasing listings for:
 
 🏡 Real Estate: Houses, flats, and land (for sale or rent)
 
 🚗 Vehicles: Cars of various brands
 
 📞 Contact and informational pages
+
+You can view the website [HERE](https://amamazahano.netlify.app/)
 
 ## 🌐 Website Structure##
 
