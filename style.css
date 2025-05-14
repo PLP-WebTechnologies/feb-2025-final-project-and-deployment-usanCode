@@ -78,7 +78,7 @@ header {
 
 /* --- SLIDESHOW --- */
 .slideshow {
-  width: 100%;
+  
   max-width: 800px;
   height: 400px;
   margin: 20px auto;
@@ -139,14 +139,12 @@ header {
 
 
 .about_image{
-   grid-column-start: 1;
+    grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start:1 ;
     grid-row-end: 2;
-   display: flex; 
-    padding: 2%;
-    
-    
+    display: flex; 
+    padding: 2%;     
     width: auto;
     height:auto;
    
@@ -154,8 +152,8 @@ header {
 }
 
 .about-img{
- width: 100%;
- height: 100%;
+  width: 100%;
+  height: 100%;
   border-radius:5% ;
   object-fit: cover;
   display: block;
@@ -163,7 +161,7 @@ header {
 }
 
 .about-text{
-  grid-column-start: 1;
+    grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start:2 ;
     grid-row-end: 3;
@@ -207,7 +205,7 @@ text-align: center;
 
 .property-image1-card{
 
-  grid-column-start: 1;
+    grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start:1 ;
     grid-row-end: 2;
@@ -218,7 +216,7 @@ text-align: center;
 
 .property-image2-card{
 
-  grid-column-start: 1;
+    grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start:2 ;
     grid-row-end: 3;
@@ -228,7 +226,7 @@ text-align: center;
 }
 .property-image3-card{
 
-  grid-column-start: 1;
+    grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start:3 ;
     grid-row-end: 4;
@@ -236,9 +234,6 @@ text-align: center;
     height: 100%;
 
 }
-
-
-
 
 .property-img{
   border-radius: 10px;
@@ -283,15 +278,37 @@ text-align: center;
 
 }
 
-footer {
-  width: fit-content;
-  height: fit-content;
+.footer-content {
+  width: 400px;
+  height: 200px;
+  margin: auto;
+  padding:20px;
+  text-align: center;
+  font-size: 17px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+  color: #555;
   
-  align-items: center;
-  justify-content: center;
  
-  
 }
+
+.social-media{
+padding: 15px;
+display: flex;
+align-items: center;
+width:150px ;
+  height: 50px;
+  margin: auto;
+
+}
+
+.social-links{
+ margin: auto ;
+}
+
+
+
+
 
 /* --- RESPONSIVE DESIGN --- */
 @media (max-width: 900px) {

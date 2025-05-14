@@ -15,7 +15,7 @@ The purpose of this website is to make known to the public, the audience and any
 
 You can view the website [HERE](https://amamazahano.netlify.app/)
 
-## 🌐 Website Structure##
+## 🌐 Website Structure ##
 
 "*" **index.html:** Here, the user can have an overview, an introduction or the idea of ​​what the website can be and have access to the different web pages of the website. the Home page contains a navigation bar and animated slideshow.
 
